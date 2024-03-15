@@ -59,7 +59,7 @@ print(prediction)
 print(f"Predicted value: {pre}")
 ```
 ## Output:
-data.head()
+
 
 [image](https://github.com/nivetharajaa/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120543388/ff4ae9f5-883f-402e-92c5-cb5475f33b41)
 
