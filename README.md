@@ -60,11 +60,15 @@ print(f"Predicted value: {pre}")
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120543388/ff4ae9f5-883f-402e-92c5-cb5475f33b41)
 
+
 ![image](https://github.com/nivetharajaa/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120543388/d62a07a9-6ab3-454f-aa97-8a6b7c8c22dc)
+
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120543388/a94f8cd7-0e2a-4def-b5fa-27a268847507)
 
+
 ![image](https://github.com/nivetharajaa/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120543388/42865e9d-edb2-4110-9d5e-d3c6238ba0dd)
+
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120543388/9ef4bed8-2feb-4138-a8e6-0eeda970d6d1)
 
